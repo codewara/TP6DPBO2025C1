@@ -64,3 +64,4 @@ Ketika player sprite bertemu pada kondisi game over (terlalu rendah, terlalu tin
 </div>
 
 ## Screen Record
+https://github.com/user-attachments/assets/3843f774-8059-45e6-948c-dbe260bbd7c7
